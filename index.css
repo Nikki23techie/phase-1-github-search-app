@@ -11,3 +11,30 @@
 ul {
   list-style: none;
 }
+
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+#search-form {
+  margin-bottom: 20px;
+}
+
+.user, .repo {
+  margin: 10px 0;
+}
+
+.user img {
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+a:hover {
+  color: #0077b6;
+}
